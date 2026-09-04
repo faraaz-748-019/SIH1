@@ -1,0 +1,4 @@
+pycryptodome==3.9.0
+cryptography==2.8
+pyjwt==1.7.1
+requests==2.25.1
